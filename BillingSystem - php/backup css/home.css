@@ -1,0 +1,40 @@
+.divh{
+	width: 100%;
+	background-color:#CACFD2;
+	
+	font-family: arial;
+	text-align: right;
+	position: fixed;
+
+}
+.decoration{
+	text-decoration: none;
+	font-size: 18px;
+	margin-right: 100px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.home{
+	
+	background-color:#f1f1f1;
+	width: 1335px;
+	height: 700px;
+}
+.img{
+	padding-right: 300px;
+	width: 120px; 
+	height: 80px; 
+	align: left;
+}
+
+
+.service{
+	background-color:yellow;
+	width: 1335px;
+	height: 650px;
+}
+.contact{
+	background-color:pink;
+	width: 1335px;
+	height: 650px;
+}

@@ -1,0 +1,51 @@
+.divadmin{
+	height: 500px;
+	width:800px;
+	border:2px solid black;
+	margin-left: 260px;
+	margin-right: 240px;
+}
+
+.divadmin b{
+	position: absolute;
+}
+.divadmin input{
+	margin-left: 8em;
+}
+
+.divwaiteradd
+{
+	height: 500px;
+	width:800px;
+	border:2px solid black;
+	margin-left: 260px;
+	margin-right: 240px;
+	padding-top: 100px;
+}
+.divwaiteradd b{
+	position: absolute;
+}
+.divwaiteradd input{
+
+	margin-left: 8em;
+	
+}
+.divwaiterlogin{
+	height: 300px;
+	width:500px;
+	border:2px solid black;
+	margin-left: 260px;
+	margin-right: 240px;
+	margin-top: 50px;
+}
+
+.divwaiterlogin b{
+	position: absolute;
+}
+.divwaiterlogin input{
+	margin-left: 8em;
+}
+
+
+
+
