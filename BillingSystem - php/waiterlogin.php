@@ -37,7 +37,7 @@
         <div class="divadmin">
             <h1 style="margin-left: -10px;">Waiter Login</h1>
             <div id="Maindiv">
-                <form action="adminpanel.php" method="post">
+                <form action="waiter_panel.php" method="post">
                     <input type="text" name="username" id="username" placeholder="Enter Your UserName Or ID">
                     <br/>
                     <br/>
